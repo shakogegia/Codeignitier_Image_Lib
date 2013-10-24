@@ -9,6 +9,8 @@ Just put Resize_class.php file in your library folder
 
 Usage
 ==================================
+<pre>
+<code>
   $imageLink = '/images/sample.jpg';
   $imageTarget = '/images/sample_resized.jpg';
   
@@ -20,3 +22,5 @@ Usage
   $this->resize_class->resizeImage(216, 223, 'crop');
   // *** 3) Save image (1-directory, 2-quality)
   $this->resize_class->saveImage($imageTarget, 100);
+</code>
+</pre>
