@@ -1,4 +1,4 @@
-Codeignitier_Image_resize_and_crop
+Codeignitier Image Manipulation Library
 ==================================
 
 Codeignitier Image resize and crop library
